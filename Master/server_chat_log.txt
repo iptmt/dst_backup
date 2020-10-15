@@ -1,0 +1,27 @@
+[00:03:47]: [Join Announcement] 反复横跳
+[00:05:15]: [Leave Announcement] 反复横跳
+[00:07:31]: [Join Announcement] 划~~~~
+[00:07:59]: [Join Announcement] 反复横跳
+[00:08:28]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:08:52]: [Join Announcement] 回家养猪
+[00:17:10]: [Join Announcement] 蒸蛋
+[00:18:45]: [Join Announcement] 我永远喜欢蒸蛋
+[00:23:44]: [Death Announcement] 我永远喜欢蒸蛋 死于： 黑暗。他变成了可怕的鬼魂！
+[00:24:49]: [Resurrect Announcement] 我永远喜欢蒸蛋 复活自： 绚丽之门.
+[00:45:11]: [Death Announcement] 我永远喜欢蒸蛋 死于： 黑暗。他变成了可怕的鬼魂！
+[00:47:36]: [Leave Announcement] 我永远喜欢蒸蛋
+[00:49:34]: [Join Announcement] 我永远喜欢蒸蛋
+[00:55:42]: [Resurrect Announcement] 我永远喜欢蒸蛋 复活自： 绚丽之门.
+[00:59:56]: [Skin Announcement] 回家养猪 body_wathgrithr_shadowp
+[01:01:00]: [Skin Announcement] 我永远喜欢蒸蛋 legs_wes_yule
+[01:21:04]: [Skin Announcement] 蒸蛋 body_polo_orange_salmon
+[01:40:51]: [Death Announcement] 回家养猪 死于： 兔人。她变成了可怕的鬼魂！
+[01:42:55]: [Resurrect Announcement] 回家养猪 复活自： 绚丽之门.
+[02:07:07]: [Leave Announcement] 划~~~~
+[02:08:44]: [Leave Announcement] 蒸蛋
+[02:09:03]: [Leave Announcement] 我永远喜欢蒸蛋
+[02:09:29]: [Leave Announcement] 回家养猪
+[02:13:19]: [Join Announcement] 划~~~~
+[02:14:05]: [Death Announcement] 划~~~~ 死于： 洞穴蝙蝠。他变成了可怕的鬼魂！
+[02:14:11]: [Leave Announcement] 划~~~~
+[02:14:17]: [Leave Announcement] 反复横跳
