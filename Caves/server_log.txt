@@ -3808,3 +3808,4 @@
 [02:12:21]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [02:12:21]: [Steam] SendUserDisconnect for '76561198084242828'
 [02:13:14]: Sim paused
+[02:16:47]: Registering secondary shard in US lobby
