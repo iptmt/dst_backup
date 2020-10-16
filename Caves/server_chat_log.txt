@@ -25,3 +25,199 @@
 [02:13:01]: [Death Announcement] 划~~~~ 死于： 洞穴蝙蝠。他变成了可怕的鬼魂！
 [02:13:07]: [Leave Announcement] 划~~~~
 [02:13:13]: [Leave Announcement] 反复横跳
+[21:32:06]: [Join Announcement] 反复横跳
+[21:32:15]: [Join Announcement] 划~~~~
+[21:33:29]: [Resurrect Announcement] 划~~~~ 复活自： 绚丽之门.
+[21:33:48]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:34:24]: [Skin Announcement] 划~~~~ legs_pants_basic_grey_dark
+[21:35:47]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:37:46]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:39:53]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:41:46]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:43:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:45:48]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:47:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:49:48]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:51:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:53:48]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:55:52]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:57:46]: [Leave Announcement] 划~~~~
+[21:57:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[21:59:52]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:01:08]: [Join Announcement] 划~~~~
+[22:01:50]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:03:52]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:06:05]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:07:52]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:09:52]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:11:55]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:13:51]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:15:53]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:17:53]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:19:53]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:21:53]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:23:55]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:25:55]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:27:55]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:29:55]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:31:57]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:33:57]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:35:57]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:37:56]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:39:58]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:41:58]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:42:23]: [Skin Announcement] 划~~~~ body_buttons_blue_sapphire
+[22:43:58]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:45:58]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:48:00]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:50:00]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:52:00]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:54:00]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:56:01]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[22:58:02]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:00:01]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:02:01]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:04:03]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:06:03]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:08:03]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:10:03]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:12:05]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:14:05]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:16:05]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:18:05]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:20:07]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:22:07]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:24:06]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:26:07]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:28:08]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:30:09]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:32:08]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:34:09]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:36:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:38:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:38:51]: [Skin Announcement] 划~~~~ feet_loafers_tan_khaki
+[23:40:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:42:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:43:01]: [Leave Announcement] 划~~~~
+[23:44:13]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:44:28]: [Join Announcement] 划~~~~
+[23:46:12]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:48:12]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:50:12]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:50:54]: [Leave Announcement] 划~~~~
+[23:52:14]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:54:14]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:56:14]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[23:58:13]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:00:16]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:01:22]: [Join Announcement] 划~~~~
+[00:02:16]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:04:15]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:06:15]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:08:17]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:10:17]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:12:17]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:13:06]: [Death Announcement] 划~~~~ 死于： 梦魇尖喙。他变成了可怕的鬼魂！
+[00:13:32]: [Vote Announcement] rollback passed
+[00:14:00]: [Vote Announcement] rollback passed
+[00:14:10]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:14:57]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:15:22]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:15:22]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:15:22]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:16:24]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:17:33]: [Leave Announcement] 反复横跳
+[00:18:24]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:18:50]: [Join Announcement] 反复横跳
+[00:20:24]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:22:24]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:24:26]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:26:26]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:28:26]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:28:43]: [Death Announcement] 划~~~~ 死于： 暴躁猴。他变成了可怕的鬼魂！
+[00:28:54]: [Vote Announcement] rollback passed
+[00:29:27]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:29:55]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:29:55]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[00:30:57]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:32:57]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:34:58]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:36:35]: [Skin Announcement] 反复横跳 body_flannel_orange_lumberjack
+[00:36:58]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:38:59]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:40:59]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:42:59]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:44:59]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:47:01]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:47:36]: [Death Announcement] 划~~~~ 死于： 兔人。他变成了可怕的鬼魂！
+[00:49:01]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:49:38]: [Resurrect Announcement] 划~~~~ 复活自： 绚丽之门.
+[00:51:01]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:52:23]: [Death Announcement] 划~~~~ 死于： 黑暗。他变成了可怕的鬼魂！
+[00:53:01]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:54:12]: [Resurrect Announcement] 划~~~~ 复活自： 绚丽之门.
+[00:55:03]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:57:03]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:59:03]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:01:03]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:03:05]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:05:05]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:07:04]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:09:04]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:11:06]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:13:06]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:15:06]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:17:07]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:19:09]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:21:09]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:23:08]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:25:08]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:27:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:29:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:31:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:33:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:33:15]: [Skin Announcement] 划~~~~ body_tshirt_grey_battleship
+[01:35:12]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:37:12]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:39:13]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:41:12]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:43:13]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:45:13]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:47:13]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:49:13]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:49:35]: [Death Announcement] 划~~~~ 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[01:49:38]: [Death Announcement] 反复横跳 死于： 黑暗。她变成了可怕的鬼魂！
+[01:49:44]: [Vote Announcement] rollback passed
+[01:50:19]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[01:50:47]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[01:50:47]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[01:51:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:53:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:55:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:57:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:59:51]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:01:51]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:03:51]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:05:51]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:07:53]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:09:53]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:10:27]: [Death Announcement] 划~~~~ 死于： 麋鹿鹅。他变成了可怕的鬼魂！
+[02:10:42]: [Vote Announcement] rollback passed
+[02:11:13]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[02:11:42]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[02:11:42]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[02:12:44]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:14:44]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:16:44]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:18:44]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:20:46]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:22:24]: [Vote Announcement] rollback passed
+[02:22:56]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[02:23:22]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[02:23:22]: [System Message] HSR"1377696703",1,"GemCore",1,"1377696703",{tags={"cave"}}
+[02:24:24]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:26:24]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:28:25]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:30:26]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:31:32]: [Leave Announcement] 反复横跳
+[02:31:32]: [Leave Announcement] 划~~~~
