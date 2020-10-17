@@ -15463,3 +15463,497 @@
 [06:00:34]: Received (KU_J9MSP25u) from TokenPurpose
 [06:30:34]: [200] Account Communication Success (6)
 [06:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[07:00:34]: [200] Account Communication Success (6)
+[07:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[07:30:34]: [200] Account Communication Success (6)
+[07:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[08:00:34]: [200] Account Communication Success (6)
+[08:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[08:30:34]: [200] Account Communication Success (6)
+[08:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[09:00:34]: [200] Account Communication Success (6)
+[09:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[09:30:34]: [200] Account Communication Success (6)
+[09:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[10:00:34]: [200] Account Communication Success (6)
+[10:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[10:30:34]: [200] Account Communication Success (6)
+[10:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[11:00:34]: [200] Account Communication Success (6)
+[11:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[11:30:34]: [200] Account Communication Success (6)
+[11:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[12:00:34]: [200] Account Communication Success (6)
+[12:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[12:30:34]: [200] Account Communication Success (6)
+[12:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[13:00:34]: [200] Account Communication Success (6)
+[13:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[13:30:34]: [200] Account Communication Success (6)
+[13:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[14:00:34]: [200] Account Communication Success (6)
+[14:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[14:30:34]: [200] Account Communication Success (6)
+[14:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[15:00:34]: [200] Account Communication Success (6)
+[15:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[15:30:34]: [200] Account Communication Success (6)
+[15:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[16:00:34]: [200] Account Communication Success (6)
+[16:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[16:30:34]: [200] Account Communication Success (6)
+[16:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[17:00:34]: [200] Account Communication Success (6)
+[17:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[17:30:34]: [200] Account Communication Success (6)
+[17:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[18:00:34]: [200] Account Communication Success (6)
+[18:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[18:30:34]: [200] Account Communication Success (6)
+[18:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[19:00:34]: [200] Account Communication Success (6)
+[19:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[19:30:34]: [200] Account Communication Success (6)
+[19:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[20:00:34]: [200] Account Communication Success (6)
+[20:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[20:30:34]: [200] Account Communication Success (6)
+[20:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[21:00:34]: [200] Account Communication Success (6)
+[21:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[21:30:34]: [200] Account Communication Success (6)
+[21:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[22:00:34]: [200] Account Communication Success (6)
+[22:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[22:30:34]: [200] Account Communication Success (6)
+[22:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[23:00:34]: [200] Account Communication Success (6)
+[23:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[23:30:34]: [200] Account Communication Success (6)
+[23:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[00:00:34]: [200] Account Communication Success (6)
+[00:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[00:30:34]: [200] Account Communication Success (6)
+[00:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[01:00:34]: [200] Account Communication Success (6)
+[01:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[01:01:11]: New incoming connection 124.126.172.236|59959 <313099394669109838>
+[01:01:11]: Client connected from 124.126.172.236|59959 <313099394669109838>
+[01:01:11]: ValidateGameSessionToken pgs-usc^KU_J9MSP25u^DontStarveTogether^w1IxVsVpKUYb97cjZhE2FAkhUqO83gB2uYFpguX1GcI= for <313099394669109838>
+[01:01:12]: Client authenticated: (KU_J9MSP25u) 反复横跳
+[01:01:12]: [Steam] Authenticated host '76561198155833263'
+[01:01:13]: There is no active event to validate against.
+[01:01:13]: [Shard] Read save location file for (KU_J9MSP25u)
+[01:01:22]: Registering master server in US lobby
+[01:01:37]: Resuming user: session/111F125C054FBE90/A7ICIME688BO/0000000053
+[01:01:37]: Could not find anim build FROMNUM
+[01:01:37]: Could not find anim build FROMNUM
+[01:01:37]: Spawning player at: [Load] (351.85, 0.00, -317.04)	
+[01:01:37]: Sim unpaused
+[01:01:37]: Registering master server in US lobby
+[01:01:41]: New time stamps for everyone at	1602948369	
+[01:01:41]: New time stamps for everyone at	1602948369	
+[01:01:53]: [P2P] Create session: 105.68.21.79|1 '76561198084242828'
+[01:01:53]: [P2P] Received from 105.68.21.79|1 '76561198084242828'
+[01:01:53]: [P2P] Sent to 105.68.21.79|1 '76561198084242828'
+[01:01:53]: New incoming connection 105.68.21.79|1 <6809279293304866835>
+[01:01:53]: Client connected from 105.68.21.79|1 <6809279293304866835>
+[01:01:53]: ValidateGameSessionToken pgs-usc^KU_0vPtVMNr^DontStarveTogether^a9miWdAJrloN6V7birbzWlWDWRvrSoR0rUomH80Aw6s= for <6809279293304866835>
+[01:01:54]: Client authenticated: (KU_0vPtVMNr) 划~~~~
+[01:01:54]: [Steam] SendUserConnectAndAuthenticate for '76561198084242828'
+[01:01:55]: [Steam] Authenticated client '76561198084242828'
+[01:01:56]: There is no active event to validate against.
+[01:01:56]: [Shard] Read save location file for (KU_0vPtVMNr)
+[01:01:56]: Registering master server in US lobby
+[01:02:20]: Resuming user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000053
+[01:02:20]: Could not find anim build FROMNUM
+[01:02:20]: Spawning player at: [Load] (349.31, 0.00, -308.17)	
+[01:02:20]: Registering master server in US lobby
+[01:07:51]: Activating portal[10] to 1377696703	
+[01:07:51]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000053
+[01:07:51]: [Shard] Migration request: (KU_0vPtVMNr) to Caves(1377696703)
+[01:07:51]: [Shard] Begin migration #50 for (KU_0vPtVMNr)
+[01:07:51]: [Shard] #50 [SHDMASTER](1) -> Caves(1377696703)
+[01:07:51]: [Shard] #50 <- session/111F125C054FBE90/A7G3IPRNQPFL/0000000053
+[01:07:51]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:07:51]: [Steam] SendUserDisconnect for '76561198084242828'
+[01:07:51]: [Shard] (KU_0vPtVMNr) disconnected from [SHDMASTER](1)
+[01:08:01]: [Shard] Completed migration #50 for player (KU_0vPtVMNr)
+[01:08:01]: [Shard] Writing save location file for (KU_0vPtVMNr)
+[01:08:06]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 5000 milliseconds with 0 out of 0 bytes received
+[01:09:18]: Registering master server in US lobby
+[01:09:19]: Available disk space for save files:                                                            42239 MB
+[01:09:20]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000053
+[01:09:22]: Serializing world: session/111F125C054FBE90/0000000053
+[01:09:23]: [Shard] Begin migration #51 for (KU_0vPtVMNr)
+[01:09:23]: [Shard] #51 Caves(1377696703) -> [SHDMASTER](1)
+[01:09:23]: [Shard] #51 -> session/111F125C054FBE90/A7G3IPRNQPFL/0000000054
+[01:09:23]: [Shard] Received migration #51 data for (KU_0vPtVMNr)
+[01:09:23]: [Shard] (KU_0vPtVMNr) disconnected from Caves(1377696703)
+[01:09:30]: New incoming connection 124.126.173.11|51741 <8325801903061725975>
+[01:09:30]: Client connected from 124.126.173.11|51741 <8325801903061725975>
+[01:09:30]: ValidateGameSessionToken pgs-usc^KU_0vPtVMNr^DontStarveTogether^quG4eMXT3cQpLUtF1ymbIUFyTEGUzCvjhQpq1vIib6w= for <8325801903061725975>
+[01:09:32]: Client authenticated: (KU_0vPtVMNr) 划~~~~
+[01:09:32]: [Steam] SendUserConnectAndAuthenticate for '76561198084242828'
+[01:09:32]: [Steam] Authenticated client '76561198084242828'
+[01:09:32]: [Shard] Completed incoming migration #51 for (KU_0vPtVMNr)
+[01:09:32]: [Shard] Completed migration #51 for player (KU_0vPtVMNr)
+[01:09:32]: [Shard] Writing save location file for (KU_0vPtVMNr)
+[01:09:53]: Resuming user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000054
+[01:09:53]: Could not find anim build FROMNUM
+[01:09:53]: Player will spawn close to portal #10	
+[01:09:53]: Spawning player at: [Load] (548.33, 0.00, -406.00)	
+[01:11:40]: Could not find anim build FROMNUM
+[01:11:44]: Could not find anim build FROMNUM
+[01:11:47]: Could not find anim build FROMNUM
+[01:11:51]: Could not find anim build FROMNUM
+[01:13:24]: Could not find anim [grow_normal_to_tall] in bank [tree_leaf_monster]
+[01:13:27]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 5002 milliseconds with 0 out of 0 bytes received
+[01:16:33]: Could not find anim [transform_out] in bank [FROMNUM]
+[01:17:22]: Available disk space for save files:                                                            42232 MB
+[01:17:22]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000054
+[01:17:22]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000054
+[01:17:24]: Serializing world: session/111F125C054FBE90/0000000054
+[01:17:24]: Registering master server in US lobby
+[01:17:57]: [P2P] Session timed out for '76561198084242828'
+[01:17:57]: [P2P] Remove session: 105.68.21.79|1 '76561198084242828'
+[01:23:54]: Could not find anim [transform_weregoose_pre] in bank [FROMNUM]
+[01:25:24]: Available disk space for save files:                                                            42231 MB
+[01:25:25]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000055
+[01:25:25]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000055
+[01:25:26]: Serializing world: session/111F125C054FBE90/0000000055
+[01:25:29]: Registering master server in US lobby
+[01:27:31]: Could not find anim [revert_weregoose_pre] in bank [wilson]
+[01:30:34]: [200] Account Communication Success (6)
+[01:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[01:31:48]: Could not find anim build FROMNUM
+[01:31:58]: Could not find anim build FROMNUM
+[01:33:26]: Available disk space for save files:                                                            42227 MB
+[01:33:27]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000056
+[01:33:27]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000056
+[01:33:29]: Serializing world: session/111F125C054FBE90/0000000056
+[01:33:34]: Registering master server in US lobby
+[01:34:14]: Could not find anim build FROMNUM
+[01:37:34]: Could not find anim build FROMNUM
+[01:41:28]: Registering master server in US lobby
+[01:41:28]: Available disk space for save files:                                                            42222 MB
+[01:41:29]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000057
+[01:41:29]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000057
+[01:41:31]: Serializing world: session/111F125C054FBE90/0000000057
+[01:45:23]: Could not find anim build FROMNUM
+[01:46:21]: Could not find anim build FROMNUM
+[01:46:41]: Could not find anim build FROMNUM
+[01:46:54]: Could not find anim build FROMNUM
+[01:46:55]: Could not find anim build FROMNUM
+[01:47:01]: Could not find anim build FROMNUM
+[01:47:06]: Could not find anim build FROMNUM
+[01:47:41]: Could not find anim build FROMNUM
+[01:47:43]: Could not find anim build FROMNUM
+[01:47:54]: Could not find anim build FROMNUM
+[01:48:08]: Could not find anim build FROMNUM
+[01:49:03]: Could not find anim build FROMNUM
+[01:49:05]: Could not find anim build FROMNUM
+[01:49:07]: Could not find anim build FROMNUM
+[01:49:07]: Could not find anim build FROMNUM
+[01:49:11]: Could not find anim build FROMNUM
+[01:49:31]: Available disk space for save files:                                                            42218 MB
+[01:49:31]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000058
+[01:49:31]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000058
+[01:49:33]: Serializing world: session/111F125C054FBE90/0000000058
+[01:49:33]: Registering master server in US lobby
+[01:49:36]: Could not find anim build FROMNUM
+[01:49:38]: Could not find anim build FROMNUM
+[01:50:54]: Could not find anim build FROMNUM
+[01:50:55]: Could not find anim build FROMNUM
+[01:51:03]: Could not find anim build FROMNUM
+[01:51:09]: Could not find anim build FROMNUM
+[01:51:14]: Could not find anim build FROMNUM
+[01:51:32]: Could not find anim build FROMNUM
+[01:51:33]: Could not find anim build FROMNUM
+[01:51:34]: Could not find anim build FROMNUM
+[01:51:35]: Could not find anim build FROMNUM
+[01:51:36]: Could not find anim build FROMNUM
+[01:51:37]: Could not find anim build FROMNUM
+[01:51:37]: Could not find anim build FROMNUM
+[01:51:38]: Could not find anim build FROMNUM
+[01:51:39]: Could not find anim build FROMNUM
+[01:51:41]: Could not find anim build FROMNUM
+[01:51:42]: Could not find anim build FROMNUM
+[01:51:42]: Could not find anim build FROMNUM
+[01:51:43]: Could not find anim build FROMNUM
+[01:51:49]: Could not find anim build FROMNUM
+[01:52:09]: Could not find anim build FROMNUM
+[01:52:45]: Could not find anim build FROMNUM
+[01:52:50]: Could not find anim build FROMNUM
+[01:52:57]: Could not find anim build FROMNUM
+[01:54:30]: Could not find anim build FROMNUM
+[01:55:26]: Could not find anim build FROMNUM
+[01:55:26]: Remote predict walking out of range	
+[01:55:26]: Remote predict walking out of range	
+[01:55:26]: Remote predict walking out of range	
+[01:55:26]: Remote predict walking out of range	
+[01:55:26]: Remote predict walking out of range	
+[01:55:26]: Remote predict walking out of range	
+[01:56:28]: Could not find anim build FROMNUM
+[01:57:33]: Available disk space for save files:                                                            42214 MB
+[01:57:34]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000059
+[01:57:34]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000059
+[01:57:35]: Serializing world: session/111F125C054FBE90/0000000059
+[01:57:38]: Registering master server in US lobby
+[01:58:00]: Could not find anim build FROMNUM
+[01:58:06]: Could not find anim build FROMNUM
+[01:58:07]: Could not find anim build FROMNUM
+[01:58:07]: Could not find anim build FROMNUM
+[01:58:10]: Could not find anim build FROMNUM
+[01:58:11]: Could not find anim build FROMNUM
+[01:58:12]: Could not find anim build FROMNUM
+[01:58:14]: Could not find anim build FROMNUM
+[01:58:16]: Could not find anim build FROMNUM
+[01:58:17]: Could not find anim build FROMNUM
+[01:58:18]: Could not find anim build FROMNUM
+[01:58:20]: Could not find anim build FROMNUM
+[01:58:24]: Could not find anim build FROMNUM
+[02:00:15]: Could not find anim build FROMNUM
+[02:00:34]: [200] Account Communication Success (6)
+[02:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[02:03:53]: Could not find anim build FROMNUM
+[02:03:53]: Could not find anim build FROMNUM
+[02:03:55]: Could not find anim build FROMNUM
+[02:03:57]: Could not find anim build FROMNUM
+[02:04:00]: Could not find anim build FROMNUM
+[02:04:00]: Could not find anim build FROMNUM
+[02:04:02]: Could not find anim build FROMNUM
+[02:04:03]: Could not find anim build FROMNUM
+[02:05:24]: Could not find anim build FROMNUM
+[02:05:25]: Could not find anim build FROMNUM
+[02:05:35]: Available disk space for save files:                                                            42210 MB
+[02:05:36]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000060
+[02:05:36]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000060
+[02:05:37]: Serializing world: session/111F125C054FBE90/0000000060
+[02:05:43]: Registering master server in US lobby
+[02:05:44]: Could not find anim build FROMNUM
+[02:05:49]: Could not find anim build FROMNUM
+[02:05:54]: Could not find anim build FROMNUM
+[02:06:08]: Could not find anim build FROMNUM
+[02:06:12]: Could not find anim build FROMNUM
+[02:06:13]: Could not find anim build FROMNUM
+[02:06:14]: Could not find anim build FROMNUM
+[02:06:16]: Could not find anim build FROMNUM
+[02:07:04]: Could not find anim build FROMNUM
+[02:07:16]: Could not find anim build FROMNUM
+[02:10:48]: Remote predict walking out of range	
+[02:10:48]: Remote predict walking out of range	
+[02:10:48]: Remote predict walking out of range	
+[02:10:48]: Remote predict walking out of range	
+[02:10:48]: Remote predict walking out of range	
+[02:11:02]: Could not find anim build FROMNUM
+[02:11:14]: Could not find anim build FROMNUM
+[02:11:15]: Could not find anim build FROMNUM
+[02:11:17]: Could not find anim build FROMNUM
+[02:11:19]: Could not find anim build FROMNUM
+[02:11:21]: Could not find anim build FROMNUM
+[02:11:22]: Could not find anim build FROMNUM
+[02:11:24]: Could not find anim build FROMNUM
+[02:11:26]: Could not find anim build FROMNUM
+[02:11:31]: Could not find anim build FROMNUM
+[02:11:33]: Could not find anim build FROMNUM
+[02:11:36]: Could not find anim build FROMNUM
+[02:11:49]: Could not find anim build FROMNUM
+[02:12:05]: Could not find anim build FROMNUM
+[02:12:20]: Could not find anim build FROMNUM
+[02:12:22]: Could not find anim build FROMNUM
+[02:12:23]: Could not find anim build FROMNUM
+[02:12:26]: Could not find anim build FROMNUM
+[02:12:28]: Could not find anim build FROMNUM
+[02:12:29]: Could not find anim build FROMNUM
+[02:12:31]: Could not find anim build FROMNUM
+[02:12:33]: Could not find anim build FROMNUM
+[02:13:07]: Could not find anim build FROMNUM
+[02:13:07]: Could not find anim build FROMNUM
+[02:13:36]: Registering master server in US lobby
+[02:13:37]: Available disk space for save files:                                                            42205 MB
+[02:13:38]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000061
+[02:13:38]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000061
+[02:13:39]: Serializing world: session/111F125C054FBE90/0000000061
+[02:13:52]: Could not find anim build FROMNUM
+[02:14:05]: Could not find anim build FROMNUM
+[02:16:18]: Activating portal[10] to 1377696703	
+[02:16:18]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000062
+[02:16:18]: [Shard] Migration request: (KU_0vPtVMNr) to Caves(1377696703)
+[02:16:18]: [Shard] Begin migration #52 for (KU_0vPtVMNr)
+[02:16:18]: [Shard] #52 [SHDMASTER](1) -> Caves(1377696703)
+[02:16:18]: [Shard] #52 <- session/111F125C054FBE90/A7G3IPRNQPFL/0000000062
+[02:16:18]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:16:18]: [Steam] SendUserDisconnect for '76561198084242828'
+[02:16:18]: [Shard] (KU_0vPtVMNr) disconnected from [SHDMASTER](1)
+[02:16:31]: [Shard] Completed migration #52 for player (KU_0vPtVMNr)
+[02:16:31]: [Shard] Writing save location file for (KU_0vPtVMNr)
+[02:16:36]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 5004 milliseconds with 0 out of 0 bytes received
+[02:21:39]: Available disk space for save files:                                                            42201 MB
+[02:21:40]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000062
+[02:21:42]: Serializing world: session/111F125C054FBE90/0000000062
+[02:21:42]: Registering master server in US lobby
+[02:23:02]: [Shard] Begin migration #53 for (KU_0vPtVMNr)
+[02:23:02]: [Shard] #53 Caves(1377696703) -> [SHDMASTER](1)
+[02:23:02]: [Shard] #53 -> session/111F125C054FBE90/A7G3IPRNQPFL/0000000063
+[02:23:02]: [Shard] Received migration #53 data for (KU_0vPtVMNr)
+[02:23:02]: [Shard] (KU_0vPtVMNr) disconnected from Caves(1377696703)
+[02:23:09]: New incoming connection 124.126.173.11|55927 <7901357188488501561>
+[02:23:10]: Client connected from 124.126.173.11|55927 <7901357188488501561>
+[02:23:10]: ValidateGameSessionToken pgs-usc^KU_0vPtVMNr^DontStarveTogether^f8vd2/cWVySDk/aI1QgrUU8wdigLdxGJjvJHAX1rXnI= for <7901357188488501561>
+[02:23:11]: Client authenticated: (KU_0vPtVMNr) 划~~~~
+[02:23:11]: [Steam] SendUserConnectAndAuthenticate for '76561198084242828'
+[02:23:12]: [Steam] Authenticated client '76561198084242828'
+[02:23:12]: [Shard] Completed incoming migration #53 for (KU_0vPtVMNr)
+[02:23:12]: [Shard] Completed migration #53 for player (KU_0vPtVMNr)
+[02:23:12]: [Shard] Writing save location file for (KU_0vPtVMNr)
+[02:23:17]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 5002 milliseconds with 0 out of 0 bytes received
+[02:23:31]: Resuming user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000063
+[02:23:31]: Could not find anim build FROMNUM
+[02:23:31]: Player will spawn close to portal #10	
+[02:23:31]: Spawning player at: [Load] (548.87, 0.00, -405.89)	
+[02:28:02]: Could not find anim build FROMNUM
+[02:28:03]: Could not find anim build FROMNUM
+[02:28:04]: Could not find anim build FROMNUM
+[02:28:05]: Could not find anim build FROMNUM
+[02:28:09]: Could not find anim build FROMNUM
+[02:28:24]: Could not find anim build FROMNUM
+[02:28:39]: Could not find anim build FROMNUM
+[02:28:50]: Could not find anim build FROMNUM
+[02:29:40]: Could not find anim build FROMNUM
+[02:29:44]: Available disk space for save files:                                                            42194 MB
+[02:29:45]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000063
+[02:29:45]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000063
+[02:29:46]: Serializing world: session/111F125C054FBE90/0000000063
+[02:29:47]: Registering master server in US lobby
+[02:29:47]: Could not find anim build FROMNUM
+[02:30:12]: Could not find anim build FROMNUM
+[02:30:13]: Could not find anim build FROMNUM
+[02:30:15]: Could not find anim build FROMNUM
+[02:30:22]: Could not find anim build FROMNUM
+[02:30:29]: Could not find anim build FROMNUM
+[02:30:34]: [200] Account Communication Success (6)
+[02:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[02:30:42]: Could not find anim build FROMNUM
+[02:31:50]: Remote predict walking out of range	
+[02:31:50]: Remote predict walking out of range	
+[02:35:16]: Could not find anim build FROMNUM
+[02:35:31]: Could not find anim build FROMNUM
+[02:35:35]: Could not find anim build FROMNUM
+[02:35:39]: Could not find anim build FROMNUM
+[02:35:45]: Could not find anim build FROMNUM
+[02:36:02]: Could not find anim build FROMNUM
+[02:36:31]: Could not find anim build FROMNUM
+[02:37:22]: Could not find anim build FROMNUM
+[02:37:46]: Could not find anim build FROMNUM
+[02:37:46]: Available disk space for save files:                                                            42192 MB
+[02:37:47]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000064
+[02:37:47]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000064
+[02:37:49]: Serializing world: session/111F125C054FBE90/0000000064
+[02:37:52]: Registering master server in US lobby
+[02:40:17]: Could not find anim build FROMNUM
+[02:40:18]: Could not find anim build FROMNUM
+[02:40:19]: Could not find anim build FROMNUM
+[02:40:39]: [Steam] SendUserDisconnect for '76561198084242828'
+[02:40:39]: [Shard] (KU_0vPtVMNr) disconnected from [SHDMASTER](1)
+[02:40:39]: Registering master server in US lobby
+[02:40:40]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000065
+[02:43:59]: Could not find anim build FROMNUM
+[02:43:59]: Could not find anim build FROMNUM
+[02:44:00]: Could not find anim build FROMNUM
+[02:44:01]: Could not find anim build FROMNUM
+[02:44:02]: Could not find anim build FROMNUM
+[02:44:02]: Could not find anim build FROMNUM
+[02:44:10]: Could not find anim build FROMNUM
+[02:44:12]: Could not find anim build FROMNUM
+[02:44:14]: Could not find anim build FROMNUM
+[02:44:15]: Could not find anim build FROMNUM
+[02:44:16]: Could not find anim build FROMNUM
+[02:44:17]: Could not find anim build FROMNUM
+[02:44:25]: Could not find anim build FROMNUM
+[02:44:26]: Could not find anim build FROMNUM
+[02:44:27]: Could not find anim build FROMNUM
+[02:44:30]: Could not find anim build FROMNUM
+[02:45:27]: New incoming connection 124.126.173.11|60885 <2851061353997455065>
+[02:45:27]: Client connected from 124.126.173.11|60885 <2851061353997455065>
+[02:45:27]: ValidateGameSessionToken pgs-usc^KU_0vPtVMNr^DontStarveTogether^EqiumS3/QpwzWmsiaId19s0Qxz5MotwPWSf+bjDLaDE= for <2851061353997455065>
+[02:45:29]: Client authenticated: (KU_0vPtVMNr) 划~~~~
+[02:45:29]: [Steam] SendUserConnectAndAuthenticate for '76561198084242828'
+[02:45:30]: [Steam] Authenticated client '76561198084242828'
+[02:45:35]: There is no active event to validate against.
+[02:45:35]: [Shard] Read save location file for (KU_0vPtVMNr)
+[02:45:35]: Registering master server in US lobby
+[02:45:48]: Registering master server in US lobby
+[02:45:49]: Available disk space for save files:                                                            42188 MB
+[02:45:49]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000065
+[02:45:51]: Serializing world: session/111F125C054FBE90/0000000065
+[02:45:57]: Resuming user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000065
+[02:45:57]: Could not find anim build FROMNUM
+[02:45:57]: Spawning player at: [Load] (482.15, 0.00, -279.52)	
+[02:46:00]: Registering master server in US lobby
+[02:47:42]: Could not find anim build FROMNUM
+[02:47:45]: Could not find anim build FROMNUM
+[02:48:02]: Could not find anim build FROMNUM
+[02:48:14]: Could not find anim build FROMNUM
+[02:48:33]: Could not find anim build FROMNUM
+[02:53:52]: Registering master server in US lobby
+[02:53:53]: Available disk space for save files:                                                            42184 MB
+[02:53:54]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000066
+[02:53:54]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000066
+[02:53:56]: Serializing world: session/111F125C054FBE90/0000000066
+[02:54:16]: Could not find anim build FROMNUM
+[02:54:37]: Could not find anim build FROMNUM
+[02:54:43]: Could not find anim build FROMNUM
+[02:54:51]: Could not find anim build FROMNUM
+[02:55:01]: Could not find anim build FROMNUM
+[02:55:31]: Could not find anim build FROMNUM
+[02:55:34]: Could not find anim build FROMNUM
+[02:55:42]: Could not find anim build FROMNUM
+[02:55:45]: Could not find anim build FROMNUM
+[02:55:54]: Could not find anim build FROMNUM
+[02:56:24]: Could not find anim build FROMNUM
+[02:56:33]: Could not find anim build FROMNUM
+[02:56:41]: Could not find anim build FROMNUM
+[02:57:00]: Could not find anim build FROMNUM
+[02:57:42]: Could not find anim build FROMNUM
+[03:00:34]: [200] Account Communication Success (6)
+[03:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[03:01:56]: Available disk space for save files:                                                            42180 MB
+[03:01:56]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000067
+[03:01:56]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000067
+[03:01:58]: Serializing world: session/111F125C054FBE90/0000000067
+[03:01:58]: Registering master server in US lobby
+[03:05:46]: Could not find anim build FROMNUM
+[03:05:48]: Could not find anim build FROMNUM
+[03:05:50]: Could not find anim build FROMNUM
+[03:05:51]: Could not find anim build FROMNUM
+[03:08:44]: Could not find anim build FROMNUM
+[03:08:44]: Could not find anim build FROMNUM
+[03:09:58]: Available disk space for save files:                                                            42175 MB
+[03:09:59]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000068
+[03:09:59]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000068
+[03:10:00]: Serializing world: session/111F125C054FBE90/0000000068
+[03:10:03]: Registering master server in US lobby
+[03:10:26]: [Steam] SendUserDisconnect for '76561198084242828'
+[03:10:26]: [Shard] (KU_0vPtVMNr) disconnected from [SHDMASTER](1)
+[03:10:26]: Registering master server in US lobby
+[03:10:26]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000069
+[03:11:21]: [Steam] SendUserDisconnect for '76561198155833263'
+[03:11:21]: [Shard] (KU_J9MSP25u) disconnected from [SHDMASTER](1)
+[03:11:22]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000069
+[03:11:22]: Sim paused
+[03:11:26]: Registering master server in US lobby
+[03:30:34]: [200] Account Communication Success (6)
+[03:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[04:00:34]: [200] Account Communication Success (6)
+[04:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[04:30:34]: [200] Account Communication Success (6)
+[04:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[05:00:34]: [200] Account Communication Success (6)
+[05:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[05:30:35]: [200] Account Communication Success (6)
+[05:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[06:00:34]: [200] Account Communication Success (6)
+[06:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[06:30:34]: [200] Account Communication Success (6)
+[06:30:34]: Received (KU_J9MSP25u) from TokenPurpose
