@@ -15957,3 +15957,236 @@
 [06:00:34]: Received (KU_J9MSP25u) from TokenPurpose
 [06:30:34]: [200] Account Communication Success (6)
 [06:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[07:00:34]: [200] Account Communication Success (6)
+[07:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[07:30:34]: [200] Account Communication Success (6)
+[07:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[08:00:34]: [200] Account Communication Success (6)
+[08:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[08:30:34]: [200] Account Communication Success (6)
+[08:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[09:00:34]: [200] Account Communication Success (6)
+[09:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[09:30:34]: [200] Account Communication Success (6)
+[09:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[10:00:34]: [200] Account Communication Success (6)
+[10:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[10:30:34]: [200] Account Communication Success (6)
+[10:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[11:00:34]: [200] Account Communication Success (6)
+[11:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[11:30:35]: [200] Account Communication Success (6)
+[11:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[12:00:34]: [200] Account Communication Success (6)
+[12:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[12:30:35]: [200] Account Communication Success (6)
+[12:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[13:00:35]: [200] Account Communication Success (6)
+[13:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[13:30:34]: [200] Account Communication Success (6)
+[13:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[14:00:34]: [200] Account Communication Success (6)
+[14:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[14:30:35]: [200] Account Communication Success (6)
+[14:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[15:00:35]: [200] Account Communication Success (6)
+[15:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[15:30:34]: [200] Account Communication Success (6)
+[15:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[16:00:35]: [200] Account Communication Success (6)
+[16:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[16:30:35]: [200] Account Communication Success (6)
+[16:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[16:36:50]: New incoming connection 124.126.173.11|53928 <5888491715348069153>
+[16:36:50]: Client connected from 124.126.173.11|53928 <5888491715348069153>
+[16:36:50]: ValidateGameSessionToken pgs-usc^KU_0vPtVMNr^DontStarveTogether^HSsBxVNBOgQIOWFZyd86XV9Dj6az2F/LVMge8F1uLm8= for <5888491715348069153>
+[16:36:51]: Client authenticated: (KU_0vPtVMNr) 划~~~~
+[16:36:51]: [Steam] SendUserConnectAndAuthenticate for '76561198084242828'
+[16:36:52]: [Steam] Authenticated client '76561198084242828'
+[16:36:54]: There is no active event to validate against.
+[16:36:54]: [Shard] Read save location file for (KU_0vPtVMNr)
+[16:37:02]: Registering master server in US lobby
+[16:37:18]: Resuming user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000069
+[16:37:18]: Could not find anim build FROMNUM
+[16:37:18]: Spawning player at: [Load] (353.12, 0.00, -319.80)	
+[16:37:18]: Sim unpaused
+[16:37:18]: Registering master server in US lobby
+[16:37:21]: New time stamps for everyone at	1603004509	
+[16:37:32]: Could not find anim build FROMNUM
+[16:37:33]: Could not find anim build FROMNUM
+[16:37:35]: Could not find anim build FROMNUM
+[16:37:46]: Could not find anim build FROMNUM
+[16:37:55]: Could not find anim build FROMNUM
+[16:38:19]: Could not find anim build FROMNUM
+[16:38:23]: Could not find anim build FROMNUM
+[16:38:24]: Could not find anim build FROMNUM
+[16:38:28]: New incoming connection 111.192.217.174|61044 <4185645171236521197>
+[16:38:28]: Client connected from 111.192.217.174|61044 <4185645171236521197>
+[16:38:28]: ValidateGameSessionToken pgs-usc^KU_0j0lUTCR^DontStarveTogether^v+7s9xVdmPplvc+kKY41oQtJ7suZ6FYChZtvTYefrFE= for <4185645171236521197>
+[16:38:29]: Client authenticated: (KU_0j0lUTCR) 我永远喜欢蒸蛋
+[16:38:29]: [Steam] SendUserConnectAndAuthenticate for '76561198207455476'
+[16:38:30]: [Steam] Authenticated client '76561198207455476'
+[16:38:33]: There is no active event to validate against.
+[16:38:33]: [Shard] Read save location file for (KU_0j0lUTCR)
+[16:38:33]: Registering master server in US lobby
+[16:38:50]: Resuming user: session/111F125C054FBE90/A7G2Q0NNJKOR/0000000020
+[16:38:50]: Could not find anim build FROMNUM
+[16:38:50]: Spawning player at: [Load] (342.69, 0.00, -314.70)	
+[16:38:50]: Registering master server in US lobby
+[16:39:38]: New incoming connection 111.192.217.174|54214 <686356072017719385>
+[16:39:38]: Client connected from 111.192.217.174|54214 <686356072017719385>
+[16:39:38]: ValidateGameSessionToken pgs-usc^KU_UIG3iIQu^DontStarveTogether^BFV7xev6V4dv+rJAjr8KajL6VZVxYUhWLYzfPRPXIik= for <686356072017719385>
+[16:39:40]: Client authenticated: (KU_UIG3iIQu) 蒸蛋
+[16:39:40]: [Steam] SendUserConnectAndAuthenticate for '76561199066214958'
+[16:39:41]: [Steam] Authenticated client '76561199066214958'
+[16:39:42]: There is no active event to validate against.
+[16:39:42]: [Shard] Read save location file for (KU_UIG3iIQu)
+[16:39:50]: Registering master server in US lobby
+[16:39:50]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 5006 milliseconds with 0 out of 0 bytes received
+[16:40:41]: Could not find anim build FROMNUM
+[16:40:49]: Resuming user: session/111F125C054FBE90/A7JP4G1R29LO/0000000019
+[16:40:49]: Could not find anim build FROMNUM
+[16:40:49]: Spawning player at: [Load] (350.37, 0.00, -311.97)	
+[16:40:50]: Could not find anim build FROMNUM
+[16:40:50]: Registering master server in US lobby
+[16:41:33]: Could not find anim build FROMNUM
+[16:42:38]: New incoming connection 124.126.172.236|60961 <64763356997563421>
+[16:42:38]: Client connected from 124.126.172.236|60961 <64763356997563421>
+[16:42:38]: ValidateGameSessionToken pgs-usc^KU_J9MSP25u^DontStarveTogether^sjzGkGfyyy8d531XX0aVM6l+gpxKReiWYdYGqcAYmZM= for <64763356997563421>
+[16:42:40]: Client authenticated: (KU_J9MSP25u) 反复横跳
+[16:42:40]: [Steam] Authenticated host '76561198155833263'
+[16:42:43]: There is no active event to validate against.
+[16:42:43]: [Shard] Read save location file for (KU_J9MSP25u)
+[16:42:54]: Registering master server in US lobby
+[16:43:11]: Resuming user: session/111F125C054FBE90/A7ICIME688BO/0000000069
+[16:43:11]: Could not find anim build FROMNUM
+[16:43:11]: Could not find anim build FROMNUM
+[16:43:11]: Spawning player at: [Load] (341.14, 0.00, -313.45)	
+[16:43:56]: Available disk space for save files:                                                            42135 MB
+[16:43:57]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000069
+[16:43:57]: Serializing user: session/111F125C054FBE90/A7G2Q0NNJKOR/0000000069
+[16:43:57]: Serializing user: session/111F125C054FBE90/A7JP4G1R29LO/0000000069
+[16:43:57]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000069
+[16:43:58]: Serializing world: session/111F125C054FBE90/0000000069
+[16:44:04]: Registering master server in US lobby
+[16:45:37]: Could not find anim build FROMNUM
+[16:45:48]: Could not find anim build FROMNUM
+[16:46:44]: Could not find anim build FROMNUM
+[16:46:48]: Could not find anim build FROMNUM
+[16:47:17]: Could not find anim build FROMNUM
+[16:47:38]: Could not find anim build FROMNUM
+[16:48:00]: Could not find anim build FROMNUM
+[16:48:01]: Could not find anim build FROMNUM
+[16:48:05]: Could not find anim build FROMNUM
+[16:48:10]: Could not find anim build FROMNUM
+[16:48:26]: Could not find anim build FROMNUM
+[16:48:42]: Could not find anim build FROMNUM
+[16:48:50]: Could not find anim build FROMNUM
+[16:48:53]: Could not find anim build FROMNUM
+[16:48:54]: Could not find anim build FROMNUM
+[16:48:56]: Could not find anim build FROMNUM
+[16:48:57]: Error parsing JSON
+[16:49:00]: Could not find anim build FROMNUM
+[16:49:02]: Could not find anim build FROMNUM
+[16:49:09]: Remote predict walking out of range	
+[16:49:09]: Remote predict walking out of range	
+[16:49:09]: Remote predict walking out of range	
+[16:49:09]: Remote predict walking out of range	
+[16:49:09]: Remote predict walking out of range	
+[16:49:09]: Remote predict walking out of range	
+[16:49:09]: Remote predict walking out of range	
+[16:49:09]: Remote predict walking out of range	
+[16:49:09]: Remote predict walking out of range	
+[16:49:13]: Could not find anim build FROMNUM
+[16:49:24]: Could not find anim build FROMNUM
+[16:49:51]: Activating portal[10] to 1377696703	
+[16:49:52]: Serializing user: session/111F125C054FBE90/A7G3IPRNQPFL/0000000070
+[16:49:52]: [Shard] Migration request: (KU_0vPtVMNr) to Caves(1377696703)
+[16:49:52]: [Shard] Begin migration #54 for (KU_0vPtVMNr)
+[16:49:52]: [Shard] #54 [SHDMASTER](1) -> Caves(1377696703)
+[16:49:52]: [Shard] #54 <- session/111F125C054FBE90/A7G3IPRNQPFL/0000000070
+[16:49:52]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[16:49:52]: [Steam] SendUserDisconnect for '76561198084242828'
+[16:49:52]: [Shard] (KU_0vPtVMNr) disconnected from [SHDMASTER](1)
+[16:50:02]: [Shard] Completed migration #54 for player (KU_0vPtVMNr)
+[16:50:02]: [Shard] Writing save location file for (KU_0vPtVMNr)
+[16:51:32]: Could not find anim build FROMNUM
+[16:51:37]: Could not find anim build FROMNUM
+[16:51:39]: Could not find anim build FROMNUM
+[16:51:57]: Registering master server in US lobby
+[16:51:58]: Available disk space for save files:                                                            42131 MB
+[16:51:59]: Serializing user: session/111F125C054FBE90/A7G2Q0NNJKOR/0000000070
+[16:51:59]: Serializing user: session/111F125C054FBE90/A7JP4G1R29LO/0000000070
+[16:51:59]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000070
+[16:52:01]: Serializing world: session/111F125C054FBE90/0000000070
+[16:53:25]: Could not find anim build FROMNUM
+[16:56:04]: [Shard] (KU_0vPtVMNr) disconnected from Caves(1377696703)
+[16:56:04]: Registering master server in US lobby
+[16:58:17]: [Steam] SendUserDisconnect for '76561199066214958'
+[16:58:17]: [Shard] (KU_UIG3iIQu) disconnected from [SHDMASTER](1)
+[16:58:17]: Serializing user: session/111F125C054FBE90/A7JP4G1R29LO/0000000071
+[16:58:19]: [Steam] SendUserDisconnect for '76561198155833263'
+[16:58:19]: [Shard] (KU_J9MSP25u) disconnected from [SHDMASTER](1)
+[16:58:19]: Registering master server in US lobby
+[16:58:20]: Serializing user: session/111F125C054FBE90/A7ICIME688BO/0000000071
+[16:58:35]: [Steam] SendUserDisconnect for '76561198207455476'
+[16:58:35]: [Shard] (KU_0j0lUTCR) disconnected from [SHDMASTER](1)
+[16:58:35]: Registering master server in US lobby
+[16:58:35]: Serializing user: session/111F125C054FBE90/A7G2Q0NNJKOR/0000000071
+[16:58:35]: Sim paused
+[17:00:35]: [200] Account Communication Success (6)
+[17:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[17:30:34]: [200] Account Communication Success (6)
+[17:30:34]: Received (KU_J9MSP25u) from TokenPurpose
+[18:00:35]: [200] Account Communication Success (6)
+[18:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[18:30:35]: [200] Account Communication Success (6)
+[18:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[19:00:35]: [200] Account Communication Success (6)
+[19:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[19:30:35]: [200] Account Communication Success (6)
+[19:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[20:00:34]: [200] Account Communication Success (6)
+[20:00:34]: Received (KU_J9MSP25u) from TokenPurpose
+[20:30:35]: [200] Account Communication Success (6)
+[20:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[21:00:35]: [200] Account Communication Success (6)
+[21:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[21:30:35]: [200] Account Communication Success (6)
+[21:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[22:00:35]: [200] Account Communication Success (6)
+[22:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[22:30:35]: [200] Account Communication Success (6)
+[22:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[23:00:35]: [200] Account Communication Success (6)
+[23:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[23:30:35]: [200] Account Communication Success (6)
+[23:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[00:00:35]: [200] Account Communication Success (6)
+[00:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[00:30:35]: [200] Account Communication Success (6)
+[00:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[01:00:35]: [200] Account Communication Success (6)
+[01:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[01:30:35]: [200] Account Communication Success (6)
+[01:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[02:00:35]: [200] Account Communication Success (6)
+[02:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[02:30:35]: [200] Account Communication Success (6)
+[02:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[03:00:35]: [200] Account Communication Success (6)
+[03:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[03:30:35]: [200] Account Communication Success (6)
+[03:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[04:00:35]: [200] Account Communication Success (6)
+[04:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[04:30:35]: [200] Account Communication Success (6)
+[04:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[05:00:35]: [200] Account Communication Success (6)
+[05:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[05:30:35]: [200] Account Communication Success (6)
+[05:30:35]: Received (KU_J9MSP25u) from TokenPurpose
+[06:00:35]: [200] Account Communication Success (6)
+[06:00:35]: Received (KU_J9MSP25u) from TokenPurpose
+[06:30:35]: [200] Account Communication Success (6)
+[06:30:35]: Received (KU_J9MSP25u) from TokenPurpose

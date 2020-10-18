@@ -292,3 +292,21 @@
 [03:10:26]: [Leave Announcement] 划~~~~
 [03:11:00]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
 [03:11:21]: [Leave Announcement] 反复横跳
+[16:37:16]: [Join Announcement] 划~~~~
+[16:38:49]: [Join Announcement] 我永远喜欢蒸蛋
+[16:38:56]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:40:47]: [Join Announcement] 蒸蛋
+[16:40:56]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:42:59]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:43:09]: [Join Announcement] 反复横跳
+[16:44:57]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:46:57]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:50:57]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:52:01]: [Death Announcement] 划~~~~ 死于： 梦魇尖喙。他变成了可怕的鬼魂！
+[16:52:59]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:54:59]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:56:04]: [Leave Announcement] 划~~~~
+[16:57:00]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[16:58:17]: [Leave Announcement] 蒸蛋
+[16:58:19]: [Leave Announcement] 反复横跳
+[16:58:35]: [Leave Announcement] 我永远喜欢蒸蛋
