@@ -16089,3 +16089,392 @@
 [06:30:12]: Registering secondary shard in US lobby
 [06:30:27]: [200] Account Communication Success (6)
 [06:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[06:35:12]: Registering secondary shard in US lobby
+[06:40:12]: Registering secondary shard in US lobby
+[06:45:12]: Registering secondary shard in US lobby
+[06:50:12]: Registering secondary shard in US lobby
+[06:55:12]: Registering secondary shard in US lobby
+[07:00:12]: Registering secondary shard in US lobby
+[07:00:27]: [200] Account Communication Success (6)
+[07:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[07:05:12]: Registering secondary shard in US lobby
+[07:10:12]: Registering secondary shard in US lobby
+[07:15:12]: Registering secondary shard in US lobby
+[07:20:12]: Registering secondary shard in US lobby
+[07:25:12]: Registering secondary shard in US lobby
+[07:30:12]: Registering secondary shard in US lobby
+[07:30:27]: [200] Account Communication Success (6)
+[07:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[07:35:12]: Registering secondary shard in US lobby
+[07:40:12]: Registering secondary shard in US lobby
+[07:45:12]: Registering secondary shard in US lobby
+[07:50:12]: Registering secondary shard in US lobby
+[07:55:12]: Registering secondary shard in US lobby
+[08:00:12]: Registering secondary shard in US lobby
+[08:00:27]: [200] Account Communication Success (6)
+[08:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[08:05:12]: Registering secondary shard in US lobby
+[08:10:12]: Registering secondary shard in US lobby
+[08:15:12]: Registering secondary shard in US lobby
+[08:20:12]: Registering secondary shard in US lobby
+[08:25:12]: Registering secondary shard in US lobby
+[08:30:12]: Registering secondary shard in US lobby
+[08:30:27]: [200] Account Communication Success (6)
+[08:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[08:35:12]: Registering secondary shard in US lobby
+[08:40:12]: Registering secondary shard in US lobby
+[08:45:12]: Registering secondary shard in US lobby
+[08:50:12]: Registering secondary shard in US lobby
+[08:55:12]: Registering secondary shard in US lobby
+[09:00:12]: Registering secondary shard in US lobby
+[09:00:27]: [200] Account Communication Success (6)
+[09:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[09:05:12]: Registering secondary shard in US lobby
+[09:10:12]: Registering secondary shard in US lobby
+[09:15:12]: Registering secondary shard in US lobby
+[09:20:12]: Registering secondary shard in US lobby
+[09:25:12]: Registering secondary shard in US lobby
+[09:30:12]: Registering secondary shard in US lobby
+[09:30:27]: [200] Account Communication Success (6)
+[09:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[09:35:12]: Registering secondary shard in US lobby
+[09:40:12]: Registering secondary shard in US lobby
+[09:45:12]: Registering secondary shard in US lobby
+[09:50:12]: Registering secondary shard in US lobby
+[09:55:12]: Registering secondary shard in US lobby
+[10:00:12]: Registering secondary shard in US lobby
+[10:00:27]: [200] Account Communication Success (6)
+[10:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[10:05:12]: Registering secondary shard in US lobby
+[10:10:12]: Registering secondary shard in US lobby
+[10:15:12]: Registering secondary shard in US lobby
+[10:20:12]: Registering secondary shard in US lobby
+[10:25:12]: Registering secondary shard in US lobby
+[10:30:12]: Registering secondary shard in US lobby
+[10:30:27]: [200] Account Communication Success (6)
+[10:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[10:35:12]: Registering secondary shard in US lobby
+[10:40:12]: Registering secondary shard in US lobby
+[10:45:12]: Registering secondary shard in US lobby
+[10:50:12]: Registering secondary shard in US lobby
+[10:55:12]: Registering secondary shard in US lobby
+[11:00:12]: Registering secondary shard in US lobby
+[11:00:27]: [200] Account Communication Success (6)
+[11:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[11:05:12]: Registering secondary shard in US lobby
+[11:10:12]: Registering secondary shard in US lobby
+[11:15:12]: Registering secondary shard in US lobby
+[11:20:12]: Registering secondary shard in US lobby
+[11:25:12]: Registering secondary shard in US lobby
+[11:30:12]: Registering secondary shard in US lobby
+[11:30:27]: [200] Account Communication Success (6)
+[11:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[11:35:12]: Registering secondary shard in US lobby
+[11:40:12]: Registering secondary shard in US lobby
+[11:45:12]: Registering secondary shard in US lobby
+[11:50:12]: Registering secondary shard in US lobby
+[11:55:12]: Registering secondary shard in US lobby
+[12:00:12]: Registering secondary shard in US lobby
+[12:00:27]: [200] Account Communication Success (6)
+[12:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[12:05:12]: Registering secondary shard in US lobby
+[12:10:13]: Registering secondary shard in US lobby
+[12:15:13]: Registering secondary shard in US lobby
+[12:20:13]: Registering secondary shard in US lobby
+[12:25:13]: Registering secondary shard in US lobby
+[12:30:13]: Registering secondary shard in US lobby
+[12:30:27]: [200] Account Communication Success (6)
+[12:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[12:35:13]: Registering secondary shard in US lobby
+[12:40:13]: Registering secondary shard in US lobby
+[12:45:13]: Registering secondary shard in US lobby
+[12:50:13]: Registering secondary shard in US lobby
+[12:55:13]: Registering secondary shard in US lobby
+[13:00:13]: Registering secondary shard in US lobby
+[13:00:27]: [200] Account Communication Success (6)
+[13:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[13:05:13]: Registering secondary shard in US lobby
+[13:10:13]: Registering secondary shard in US lobby
+[13:15:13]: Registering secondary shard in US lobby
+[13:20:13]: Registering secondary shard in US lobby
+[13:25:13]: Registering secondary shard in US lobby
+[13:30:13]: Registering secondary shard in US lobby
+[13:30:27]: [200] Account Communication Success (6)
+[13:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[13:35:13]: Registering secondary shard in US lobby
+[13:40:13]: Registering secondary shard in US lobby
+[13:45:13]: Registering secondary shard in US lobby
+[13:50:13]: Registering secondary shard in US lobby
+[13:55:13]: Registering secondary shard in US lobby
+[14:00:13]: Registering secondary shard in US lobby
+[14:00:27]: [200] Account Communication Success (6)
+[14:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[14:05:13]: Registering secondary shard in US lobby
+[14:10:13]: Registering secondary shard in US lobby
+[14:15:13]: Registering secondary shard in US lobby
+[14:20:13]: Registering secondary shard in US lobby
+[14:25:13]: Registering secondary shard in US lobby
+[14:30:13]: Registering secondary shard in US lobby
+[14:30:27]: [200] Account Communication Success (6)
+[14:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[14:35:13]: Registering secondary shard in US lobby
+[14:40:13]: Registering secondary shard in US lobby
+[14:45:13]: Registering secondary shard in US lobby
+[14:50:13]: Registering secondary shard in US lobby
+[14:55:13]: Registering secondary shard in US lobby
+[15:00:13]: Registering secondary shard in US lobby
+[15:00:27]: [200] Account Communication Success (6)
+[15:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[15:05:13]: Registering secondary shard in US lobby
+[15:10:13]: Registering secondary shard in US lobby
+[15:15:13]: Registering secondary shard in US lobby
+[15:20:13]: Registering secondary shard in US lobby
+[15:25:13]: Registering secondary shard in US lobby
+[15:30:13]: Registering secondary shard in US lobby
+[15:30:27]: [200] Account Communication Success (6)
+[15:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[15:35:13]: Registering secondary shard in US lobby
+[15:40:13]: Registering secondary shard in US lobby
+[15:45:13]: Registering secondary shard in US lobby
+[15:50:13]: Registering secondary shard in US lobby
+[15:55:13]: Registering secondary shard in US lobby
+[16:00:13]: Registering secondary shard in US lobby
+[16:00:27]: [200] Account Communication Success (6)
+[16:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[16:05:13]: Registering secondary shard in US lobby
+[16:10:13]: Registering secondary shard in US lobby
+[16:15:13]: Registering secondary shard in US lobby
+[16:20:13]: Registering secondary shard in US lobby
+[16:25:13]: Registering secondary shard in US lobby
+[16:30:13]: Registering secondary shard in US lobby
+[16:30:27]: [200] Account Communication Success (6)
+[16:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[16:35:13]: Registering secondary shard in US lobby
+[16:40:13]: Registering secondary shard in US lobby
+[16:45:13]: Registering secondary shard in US lobby
+[16:50:13]: Registering secondary shard in US lobby
+[16:55:13]: Registering secondary shard in US lobby
+[17:00:13]: Registering secondary shard in US lobby
+[17:00:27]: [200] Account Communication Success (6)
+[17:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[17:05:13]: Registering secondary shard in US lobby
+[17:10:13]: Registering secondary shard in US lobby
+[17:15:13]: Registering secondary shard in US lobby
+[17:20:13]: Registering secondary shard in US lobby
+[17:25:13]: Registering secondary shard in US lobby
+[17:30:13]: Registering secondary shard in US lobby
+[17:30:27]: [200] Account Communication Success (6)
+[17:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[17:35:13]: Registering secondary shard in US lobby
+[17:40:13]: Registering secondary shard in US lobby
+[17:45:13]: Registering secondary shard in US lobby
+[17:50:13]: Registering secondary shard in US lobby
+[17:55:13]: Registering secondary shard in US lobby
+[18:00:13]: Registering secondary shard in US lobby
+[18:00:27]: [200] Account Communication Success (6)
+[18:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[18:05:13]: Registering secondary shard in US lobby
+[18:10:13]: Registering secondary shard in US lobby
+[18:15:13]: Registering secondary shard in US lobby
+[18:20:13]: Registering secondary shard in US lobby
+[18:25:13]: Registering secondary shard in US lobby
+[18:30:13]: Registering secondary shard in US lobby
+[18:30:27]: [200] Account Communication Success (6)
+[18:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[18:35:13]: Registering secondary shard in US lobby
+[18:40:13]: Registering secondary shard in US lobby
+[18:45:13]: Registering secondary shard in US lobby
+[18:50:13]: Registering secondary shard in US lobby
+[18:55:13]: Registering secondary shard in US lobby
+[19:00:13]: Registering secondary shard in US lobby
+[19:00:27]: [200] Account Communication Success (6)
+[19:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[19:05:13]: Registering secondary shard in US lobby
+[19:10:13]: Registering secondary shard in US lobby
+[19:15:13]: Registering secondary shard in US lobby
+[19:20:13]: Registering secondary shard in US lobby
+[19:25:13]: Registering secondary shard in US lobby
+[19:30:13]: Registering secondary shard in US lobby
+[19:30:27]: [200] Account Communication Success (6)
+[19:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[19:35:13]: Registering secondary shard in US lobby
+[19:40:13]: Registering secondary shard in US lobby
+[19:45:13]: Registering secondary shard in US lobby
+[19:50:13]: Registering secondary shard in US lobby
+[19:55:13]: Registering secondary shard in US lobby
+[20:00:13]: Registering secondary shard in US lobby
+[20:00:27]: [200] Account Communication Success (6)
+[20:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[20:05:13]: Registering secondary shard in US lobby
+[20:10:13]: Registering secondary shard in US lobby
+[20:15:13]: Registering secondary shard in US lobby
+[20:20:13]: Registering secondary shard in US lobby
+[20:25:13]: Registering secondary shard in US lobby
+[20:30:13]: Registering secondary shard in US lobby
+[20:30:27]: [200] Account Communication Success (6)
+[20:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[20:35:13]: Registering secondary shard in US lobby
+[20:40:13]: Registering secondary shard in US lobby
+[20:45:13]: Registering secondary shard in US lobby
+[20:50:13]: Registering secondary shard in US lobby
+[20:55:13]: Registering secondary shard in US lobby
+[21:00:13]: Registering secondary shard in US lobby
+[21:00:27]: [200] Account Communication Success (6)
+[21:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[21:05:13]: Registering secondary shard in US lobby
+[21:10:13]: Registering secondary shard in US lobby
+[21:15:13]: Registering secondary shard in US lobby
+[21:20:13]: Registering secondary shard in US lobby
+[21:25:13]: Registering secondary shard in US lobby
+[21:30:13]: Registering secondary shard in US lobby
+[21:30:27]: [200] Account Communication Success (6)
+[21:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[21:35:14]: Registering secondary shard in US lobby
+[21:40:14]: Registering secondary shard in US lobby
+[21:45:14]: Registering secondary shard in US lobby
+[21:50:14]: Registering secondary shard in US lobby
+[21:55:14]: Registering secondary shard in US lobby
+[22:00:14]: Registering secondary shard in US lobby
+[22:00:27]: [200] Account Communication Success (6)
+[22:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[22:05:14]: Registering secondary shard in US lobby
+[22:10:14]: Registering secondary shard in US lobby
+[22:15:14]: Registering secondary shard in US lobby
+[22:20:14]: Registering secondary shard in US lobby
+[22:25:14]: Registering secondary shard in US lobby
+[22:30:14]: Registering secondary shard in US lobby
+[22:30:27]: [200] Account Communication Success (6)
+[22:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[22:35:14]: Registering secondary shard in US lobby
+[22:40:14]: Registering secondary shard in US lobby
+[22:45:14]: Registering secondary shard in US lobby
+[22:50:14]: Registering secondary shard in US lobby
+[22:55:14]: Registering secondary shard in US lobby
+[23:00:14]: Registering secondary shard in US lobby
+[23:00:27]: [200] Account Communication Success (6)
+[23:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[23:05:14]: Registering secondary shard in US lobby
+[23:10:14]: Registering secondary shard in US lobby
+[23:15:14]: Registering secondary shard in US lobby
+[23:20:14]: Registering secondary shard in US lobby
+[23:25:14]: Registering secondary shard in US lobby
+[23:30:14]: Registering secondary shard in US lobby
+[23:30:27]: [200] Account Communication Success (6)
+[23:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[23:35:14]: Registering secondary shard in US lobby
+[23:40:14]: Registering secondary shard in US lobby
+[23:45:14]: Registering secondary shard in US lobby
+[23:50:14]: Registering secondary shard in US lobby
+[23:55:14]: Registering secondary shard in US lobby
+[00:00:14]: Registering secondary shard in US lobby
+[00:00:27]: [200] Account Communication Success (6)
+[00:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[00:05:14]: Registering secondary shard in US lobby
+[00:10:14]: Registering secondary shard in US lobby
+[00:15:14]: Registering secondary shard in US lobby
+[00:20:14]: Registering secondary shard in US lobby
+[00:25:14]: Registering secondary shard in US lobby
+[00:30:14]: Registering secondary shard in US lobby
+[00:30:27]: [200] Account Communication Success (6)
+[00:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[00:35:14]: Registering secondary shard in US lobby
+[00:40:14]: Registering secondary shard in US lobby
+[00:45:14]: Registering secondary shard in US lobby
+[00:50:14]: Registering secondary shard in US lobby
+[00:55:14]: Registering secondary shard in US lobby
+[01:00:14]: Registering secondary shard in US lobby
+[01:00:27]: [200] Account Communication Success (6)
+[01:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[01:05:14]: Registering secondary shard in US lobby
+[01:10:14]: Registering secondary shard in US lobby
+[01:15:14]: Registering secondary shard in US lobby
+[01:20:14]: Registering secondary shard in US lobby
+[01:25:14]: Registering secondary shard in US lobby
+[01:30:14]: Registering secondary shard in US lobby
+[01:30:27]: [200] Account Communication Success (6)
+[01:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[01:35:14]: Registering secondary shard in US lobby
+[01:40:14]: Registering secondary shard in US lobby
+[01:45:14]: Registering secondary shard in US lobby
+[01:50:14]: Registering secondary shard in US lobby
+[01:53:22]: Registering secondary shard in US lobby
+[01:53:48]: Gameserver logged on to Steam, assigned identity steamid:90139513974464518
+[01:53:48]: Registering secondary shard in US lobby
+[01:58:48]: Registering secondary shard in US lobby
+[02:00:27]: [200] Account Communication Success (6)
+[02:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[02:03:48]: Registering secondary shard in US lobby
+[02:08:48]: Registering secondary shard in US lobby
+[02:13:48]: Registering secondary shard in US lobby
+[02:18:48]: Registering secondary shard in US lobby
+[02:23:48]: Registering secondary shard in US lobby
+[02:28:48]: Registering secondary shard in US lobby
+[02:30:27]: [200] Account Communication Success (6)
+[02:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[02:33:48]: Registering secondary shard in US lobby
+[02:38:48]: Registering secondary shard in US lobby
+[02:43:48]: Registering secondary shard in US lobby
+[02:48:48]: Registering secondary shard in US lobby
+[02:53:48]: Registering secondary shard in US lobby
+[02:58:48]: Registering secondary shard in US lobby
+[03:00:27]: [200] Account Communication Success (6)
+[03:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[03:03:48]: Registering secondary shard in US lobby
+[03:08:48]: Registering secondary shard in US lobby
+[03:13:48]: Registering secondary shard in US lobby
+[03:18:49]: Registering secondary shard in US lobby
+[03:23:49]: Registering secondary shard in US lobby
+[03:28:49]: Registering secondary shard in US lobby
+[03:30:27]: [200] Account Communication Success (6)
+[03:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[03:33:49]: Registering secondary shard in US lobby
+[03:38:49]: Registering secondary shard in US lobby
+[03:43:49]: Registering secondary shard in US lobby
+[03:48:49]: Registering secondary shard in US lobby
+[03:53:49]: Registering secondary shard in US lobby
+[03:58:49]: Registering secondary shard in US lobby
+[04:00:28]: [200] Account Communication Success (6)
+[04:00:28]: Received (KU_J9MSP25u) from TokenPurpose
+[04:03:49]: Registering secondary shard in US lobby
+[04:08:49]: Registering secondary shard in US lobby
+[04:09:49]: CURL ERROR: (lobby-us.kleientertainment.com) Operation timed out after 60001 milliseconds with 0 out of 0 bytes received
+[04:09:49]: Failed to send shard broadcast message
+[04:13:49]: Registering secondary shard in US lobby
+[04:18:49]: Registering secondary shard in US lobby
+[04:23:49]: Registering secondary shard in US lobby
+[04:28:49]: Registering secondary shard in US lobby
+[04:30:28]: [200] Account Communication Success (6)
+[04:30:28]: Received (KU_J9MSP25u) from TokenPurpose
+[04:33:49]: Registering secondary shard in US lobby
+[04:38:49]: Registering secondary shard in US lobby
+[04:43:49]: Registering secondary shard in US lobby
+[04:48:49]: Registering secondary shard in US lobby
+[04:53:49]: Registering secondary shard in US lobby
+[04:58:49]: Registering secondary shard in US lobby
+[05:00:27]: [200] Account Communication Success (6)
+[05:00:27]: Received (KU_J9MSP25u) from TokenPurpose
+[05:03:49]: Registering secondary shard in US lobby
+[05:08:49]: Registering secondary shard in US lobby
+[05:13:49]: Registering secondary shard in US lobby
+[05:18:49]: Registering secondary shard in US lobby
+[05:23:49]: Registering secondary shard in US lobby
+[05:28:49]: Registering secondary shard in US lobby
+[05:30:27]: [200] Account Communication Success (6)
+[05:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[05:33:49]: Registering secondary shard in US lobby
+[05:38:49]: Registering secondary shard in US lobby
+[05:43:49]: Registering secondary shard in US lobby
+[05:48:49]: Registering secondary shard in US lobby
+[05:53:49]: Registering secondary shard in US lobby
+[05:58:49]: Registering secondary shard in US lobby
+[06:00:28]: [200] Account Communication Success (6)
+[06:00:28]: Received (KU_J9MSP25u) from TokenPurpose
+[06:03:49]: Registering secondary shard in US lobby
+[06:08:49]: Registering secondary shard in US lobby
+[06:13:49]: Registering secondary shard in US lobby
+[06:18:49]: Registering secondary shard in US lobby
+[06:23:49]: Registering secondary shard in US lobby
+[06:28:49]: Registering secondary shard in US lobby
+[06:30:27]: [200] Account Communication Success (6)
+[06:30:27]: Received (KU_J9MSP25u) from TokenPurpose
+[06:33:49]: Registering secondary shard in US lobby
